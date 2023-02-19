@@ -5,13 +5,19 @@ the requeriments are just a google account
 
 
 #clone this repository 
+
 git clone https://github.com/azureuser12/lxde-rdp-gcs/
 
 then...
+
 cd lxde-rdp-gcs
+
 after that....
+
 chmod +x gui1.sh
+
 and
+
 ./gui1.sh
 
 
